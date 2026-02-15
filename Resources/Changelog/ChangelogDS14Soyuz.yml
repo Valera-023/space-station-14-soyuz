@@ -22,3 +22,10 @@ Entries:
     message: HEX коды объявлений ЦК
   - type: Fix
     message: Цвет ПНВ СОБР гаммы
+- id: 3
+  author: botcott
+  time: '2026-02-15T16:27:07.688139+00:00'
+  pr: 101
+  changes:
+  - type: Fix
+    message: Фикс автоматического ченжлога
