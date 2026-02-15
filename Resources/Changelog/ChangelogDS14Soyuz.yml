@@ -29,3 +29,12 @@ Entries:
   changes:
   - type: Fix
     message: Фикс автоматического ченжлога
+- id: 4
+  author: botcott
+  time: '2026-02-15T19:34:47.329235+00:00'
+  pr: 102
+  changes:
+  - type: Tweak
+    message: Изменён спрайт юбки-карандаша Политрука
+  - type: Fix
+    message: Исправлен баг с Ведущим Логистом из-за Апстрима
