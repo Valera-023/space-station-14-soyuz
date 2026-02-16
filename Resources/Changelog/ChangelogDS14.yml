@@ -695,3 +695,16 @@ Entries:
     message: 'Исправлено: >'
   - type: Fix
     message: '>'
+- id: 59
+  author: botcott
+  time: '2026-02-16T13:53:51.341600+00:00'
+  pr: 106
+  changes:
+  - type: Add
+    message: 'Удалено:'
+  - type: Remove
+    message: 'Изменено:'
+  - type: Tweak
+    message: 'Исправлено: >'
+  - type: Fix
+    message: '>'
