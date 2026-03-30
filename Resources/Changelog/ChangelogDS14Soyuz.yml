@@ -50,3 +50,10 @@ Entries:
     message: Спрайты каждого станционного борга
   - type: Fix
     message: Телепортеры СГШ
+- id: 6
+  author: Kofeecheks
+  time: '2026-03-30T17:14:48+00:00'
+  pr: 192
+  changes:
+  - type: Tweak
+    message: Починили логи добавления записей в чейнджлоги
