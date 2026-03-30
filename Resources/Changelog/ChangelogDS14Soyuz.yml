@@ -57,3 +57,10 @@ Entries:
   changes:
   - type: Tweak
     message: Починили логи добавления записей в чейнджлоги
+- id: 7
+  author: Kofeecheks
+  time: '2026-03-30T19:46:16+00:00'
+  pr: 195
+  changes:
+  - type: Tweak
+    message: Обновление системы объявлений ЦК и станции
