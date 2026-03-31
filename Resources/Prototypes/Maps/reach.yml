@@ -3,7 +3,7 @@
   mapName: 'Reach'
   mapPath: /Maps/Soyuz/reach.yml
   minPlayers: 0
-  maxPlayers: 10
+  maxPlayers: 15 # DS-14-voite
   stations:
     Reach:
       stationProto: StandardNanotrasenStation
@@ -52,7 +52,7 @@
             StationEngineer: [ 2, 2 ]
             # sup
             Quartermaster: [ 1, 1 ]
-            SeniorCourier: [ 1, 1 ]
+            # SeniorCourier: [ 1, 1 ] # DS14-Soyuz
             SalvageSpecialist: [ 2, 2 ]
             CargoTechnician: [ 1, 1 ]
             # civ

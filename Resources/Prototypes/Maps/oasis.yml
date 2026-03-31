@@ -2,8 +2,9 @@
   id: Oasis
   mapName: 'Oasis'
   mapPath: /Maps/Soyuz/oasis.yml
-  minPlayers: 25
-  maxPlayers: 40
+  # DS14-Soyuz-start: automatic map vote online range
+  minPlayers: 70
+  # DS14-Soyuz-end
   stations:
     Oasis:
       stationProto: StandardNanotrasenStation
@@ -43,6 +44,7 @@
             Coroner: [ 1, 1 ]
             Psychologist: [ 1, 1 ]
             MedicalIntern: [ 4, 4 ]
+#            Virologist: [ 1, 1 ]
             # rnd
             ResearchDirector: [ 1, 1 ]
             SeniorResearcher: [ 1, 1 ]
@@ -56,7 +58,7 @@
             TechnicalAssistant: [ 4, 4 ]
             # sup
             Quartermaster: [ 1, 1 ]
-            SeniorCourier: [ 1, 1 ]
+            # SeniorCourier: [ 1, 1 ] # DS14-Soyuz
             SalvageSpecialist: [ 3, 3 ]
             CargoTechnician: [ 3, 3 ]
             # civ

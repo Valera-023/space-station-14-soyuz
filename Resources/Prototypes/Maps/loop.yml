@@ -2,8 +2,10 @@
   id: Loop
   mapName: 'Loop'
   mapPath: /Maps/Soyuz/loop.yml
-  minPlayers: 15
-  maxPlayers: 40
+  # DS14-Soyuz-start: automatic map vote online range
+  minPlayers: 25
+  maxPlayers: 65
+  # DS14-Soyuz-end
   stations:
     Loop:
       stationProto: StandardNanotrasenStation
@@ -43,6 +45,7 @@
             Coroner: [ 1, 1 ]
             Psychologist: [ 1, 1 ]
             MedicalIntern: [ 3, 3 ]
+#            Virologist: [ 1, 1 ]
             # rnd
             ResearchDirector: [ 1, 1 ]
             SeniorResearcher: [ 1, 1 ]
@@ -56,7 +59,7 @@
             TechnicalAssistant: [ 5, 5 ]
             # sup
             Quartermaster: [ 1, 1 ]
-            SeniorCourier: [ 1, 1 ]
+            # SeniorCourier: [ 1, 1 ] # DS14-Soyuz
             SalvageSpecialist: [ 3, 3 ]
             CargoTechnician: [ 3, 3 ]
             # civ

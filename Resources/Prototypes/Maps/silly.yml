@@ -4,8 +4,10 @@
   mapPath: /Maps/Soyuz/ds_silly.yml
   maxRandomOffset: 0
   randomRotation: false
+  # DS14-Soyuz-start: automatic map vote online range
   minPlayers: 0
-  maxPlayers: 20
+  maxPlayers: 40
+  # DS14-Soyuz-end
   stations:
     Silly:
       stationProto: StandardNanotrasenStation
@@ -47,7 +49,7 @@
             Coroner: [ 1, 1 ]
             Psychologist: [ 1, 1 ]
             MedicalIntern: [ 2, 2 ]
-            Virologist: [ 1, 1 ]
+#            Virologist: [ 1, 1 ]
             # rnd
             ResearchDirector: [ 1, 1 ]
             SeniorResearcher: [ 1, 1 ]
@@ -61,7 +63,7 @@
             TechnicalAssistant: [ 2, 2 ]
             # sup
             Quartermaster: [ 1, 1 ]
-            SeniorCourier: [ 1, 1 ]
+            # SeniorCourier: [ 1, 1 ] # DS14-Soyuz
             SalvageSpecialist: [ 3, 3 ]
             CargoTechnician: [ 2, 2 ]
             # civ
