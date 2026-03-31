@@ -83,3 +83,16 @@ Entries:
       по диапазонам онлайна и не повторяются, пока не исчерпается доступный пул.
   - type: Tweak
     message: Обновлён стандартный пул станций и диапазоны онлайна карт
+- id: 10
+  author: Kofeecheks
+  time: '2026-03-31T14:16:11+00:00'
+  pr: 189
+  changes:
+  - type: Add
+    message: Добавлено веселье!
+  - type: Fix
+    message: Исправлено веселье!
+  - type: Remove
+    message: Удалено веселье!
+  - type: Tweak
+    message: Изменено веселье!
