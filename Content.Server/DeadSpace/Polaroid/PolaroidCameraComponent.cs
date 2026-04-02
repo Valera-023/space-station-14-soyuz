@@ -1,3 +1,4 @@
+// Мёртвый Космос, Licensed under custom terms with restrictions on public hosting and commercial use, full text: https://raw.githubusercontent.com/dead-space-server/space-station-14-fobos/master/LICENSE.TXT
 using Content.Shared.Containers.ItemSlots;
 using Robust.Shared.Audio;
 using Robust.Shared.Prototypes;
@@ -26,7 +27,7 @@ public sealed partial class PolaroidCameraComponent : Component
     public int MaxCaptureDimension = 512;
 
     [DataField]
-    public SoundSpecifier ShutterSound = new SoundPathSpecifier("/Audio/Machines/shutter.ogg");
+    public SoundSpecifier ShutterSound = new SoundPathSpecifier("/Audio/_Backmen/Machines/polaroid1.ogg");
 
     [DataField]
     public SoundSpecifier PrintSound = new SoundPathSpecifier("/Audio/Machines/printer.ogg");
