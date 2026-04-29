@@ -271,6 +271,8 @@ stack-silver-ore = серебряная руда
 stack-space-quartz = космический кварц
 stack-uranium-ore = урановая руда
 stack-bananium-ore = бананиумовая руда
+stack-redspace-crystal = редспейс кристалл
+stack-redspace-crystal-ore = редспейс кристальная руда
 stack-coal = уголь
 stack-salt = соль
 stack-inflatable-wall = надувная стена
@@ -405,3 +407,4 @@ stack-white-marble-floor = белый мраморный пол
 stack-dark-marble-floor = чёрный мраморный пол
 stack-plasma-marble-floor = плазменный мраморный пол
 stack-uranium-marble-floor = урановый мраморный пол
+
